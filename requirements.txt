@@ -4,7 +4,7 @@ Keras-Preprocessing==1.0.9
 matplotlib==3.0.3
 mkl-fft==1.0.10
 mkl-random==1.0.2
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 scikit-learn==0.20.3
 scipy==1.2.1
